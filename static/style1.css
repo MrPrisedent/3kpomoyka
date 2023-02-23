@@ -1,0 +1,49 @@
+body{
+    background-color: whitesmoke;
+}
+title{
+text-align: center;
+color: #76db76;
+font-size: 100px;
+}
+h1 {
+text-align: center;
+font-size: 50px;
+color: #ff0000;
+font-family: cursive;
+}
+h3{
+text-align: center;
+font-size: 50px;
+background-color: gold;
+}
+h2{
+text-align: center;
+font-size: 50px;
+}
+h4{
+text-align: center;
+font-size: 50px;
+background-color: gold
+}
+p {
+font-size: 30px;
+  font-family: cursive;
+  text-align: center;
+}
+h5{
+text-align: center;
+font-size: 50px;
+background-color: gold;
+font-family: cursive;
+}
+.a:active{
+  color:#4e0404;
+}
+.a:link{
+  color:#ff002b;
+}
+
+.a:visited{
+  color:#ff002b;
+}
